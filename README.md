@@ -1,2 +1,2 @@
-# VSCodeForSwiftUI
-使用VSCode开发SwiftUI,支持热加载
+## 欢迎访问FastDevSwiftUl
+[配置详见Wiki](https://github.com/404Awesome/FastDevSwiftUI/wiki)
